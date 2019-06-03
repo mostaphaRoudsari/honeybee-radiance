@@ -1,0 +1,17 @@
+honeybee\_radiance.material package
+===================================
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee_radiance.material.materialbase
+
+Module contents
+---------------
+
+.. automodule:: honeybee_radiance.material
+    :members:
+    :undoc-members:
+    :show-inheritance:

@@ -1,0 +1,7 @@
+honeybee\_radiance.material.materialbase module
+===============================================
+
+.. automodule:: honeybee_radiance.material.materialbase
+    :members:
+    :undoc-members:
+    :show-inheritance:
